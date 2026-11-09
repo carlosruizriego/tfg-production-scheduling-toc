@@ -1,0 +1,9 @@
+simpy>=4.1.1
+ortools>=9.7.2996
+deap>=1.4.1
+stable-baselines3>=2.3.0
+gymnasium>=0.29.1
+torch>=2.1.0
+numpy>=1.26.0
+scipy>=1.11.0
+matplotlib>=3.8.0

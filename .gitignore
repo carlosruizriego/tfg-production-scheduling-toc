@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# trained models and checkpoints (large files)
+*.zip
+*.pt
+*.pth
+# TensorBoard logs
+runs/
+tb_logs/
